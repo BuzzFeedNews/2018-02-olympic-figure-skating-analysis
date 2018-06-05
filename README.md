@@ -29,6 +29,10 @@ The [`notebooks` directory](./notebooks) contains two sets of analyses:
 
 All of the analyses above are coded in Python 3, using the libraries listed in [`requirements.txt`](./requirements.txt).
 
+## Licensing
+
+All code in this repository is available under the [MIT License](https://opensource.org/licenses/MIT). All data files are available under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0) license.
+
 ## Questions / Feedback
 
 Contact John Templon at [john.templon@buzzfeed.com](mailto:john.templon@buzzfeed.com).
